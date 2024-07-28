@@ -211,7 +211,7 @@ if os.date("*t", os.time()).month == 4 then
 	-- This is a reminder how EdgeIY edgy was
 	Title.Text = "Infinite Yiff v"  .. currentVersion
 else
-	Title.Text = "Infinite Yield Reborn v"  .. currentVersion
+	Title.Text = "Steal X v"  .. currentVersion
 
 do
 	local emoji = ({
